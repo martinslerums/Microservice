@@ -1,0 +1,30 @@
+.searchResultsContainer {
+  margin-top: 20px;
+}
+
+.resultsHeader {
+  color: #333;
+}
+
+.resultsTable {
+  width: 100%;
+  border-collapse: collapse;
+  margin-top: 10px;
+}
+
+.tableHeader {
+  font-weight: bold;
+  background-color: #f2f2f2;
+  padding: 10px;
+  border: 1px solid #ddd;
+}
+
+.tableCell {
+  border: 1px solid #ddd;
+  padding: 10px;
+}
+
+.loadingMessage {
+  color: #888;
+  margin-top: 20px;
+}
