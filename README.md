@@ -28,22 +28,27 @@ Within microservice folder run script to start development server
 npm run dev
 ```
 
-## Papilduzdevumi
+## Additional Tasks
 
-* PAPILDUZDEVUMS * Logging
-  Completed
+* **Task 1 - Logging**
+  - Status: Completed
 
-* 1. PAPILDUZDEVUMS * Datu ievades un izvades formāti
+* **Task 2 - Data Input and Output Formats**
+  - Status: Partially completed
+  - Description: Able to output data in xml/json formats based on the Accept header parameter.
 
-      Daļēji izpildīts - Datus spēj izvadīt xml/json formātos atkarībā no Header Accept parametra. 
-* 2. PAPILDUZDEVUMS * Automatizēto testu pievienošana
-      Minimāli iesākts - nav izpildīts.
+* **Task 3 - Adding Automated Tests**
+  - Status: Minimally initiated
+  - Description: Not completed.
 
-* 3. PAPILDUZDEVUMS * ESLint statisko koda analīzes rīka pievinošana
-      Izpildīts npm run lint strādā kā arī npm run lint:fix salabo kļūdas.
+* **Task 4 - Integration of ESLint for Static Code Analysis**
+  - Status: Completed
+  - Description: `npm run lint` works, and `npm run lint:fix` corrects errors.
 
-* 4. PAPILDUZDEVUMS * WEB formas vizualizācija
-      Izpildīts - redzams Client side.
+* **Task 5 - Web Form Visualization**
+  - Status: Completed
+  - Description: Visible on the client side.
+
 
       
       
